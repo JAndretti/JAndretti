@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in my final year of engineering school. I am specialised in Artificial Intelligence, I have led several projects. You can find some of them on my GIT profile.<br>I am currently looking for an internship in the field of AI.<br><br>You can contact me on Linkedin if needed.
+I am currently in my final year of engineering school. I am specialised in Artificial Intelligence, I have led several projects. You can find some of them on my GIT profile.<br>I am looking for an internship in the field of AI.<br><br>You can contact me on Linkedin if needed.
 
 
 ## 🌐 Socials:
