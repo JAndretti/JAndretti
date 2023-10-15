@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in my final year of engineering school. I am specialised in Artificial Intelligence, I have led several projects. You can find some of them on my GIT profile.<br>I am looking for an internship in the field of AI.<br><br>You can contact me on Linkedin if needed.
+Passionate about the fields of Artificial Intelligence and Mathematics, I amconstantly fueled by a thirst for knowledge and learning. My enthusiasm forthese disciplines drives an insatiable curiosity, always eager to explore newideas and concepts. Perseverance is inherent in my nature, as I strive toovercome each challenge with determination, recognizing that everyobstacle presents an opportunity for growth and development. Myunwavering commitment to these areas motivates me to excel and activelycontribute to innovative AI and mathematics projects.<br><br>You can contact me on Linkedin if needed.
 
 
 ## 🌐 Socials:
