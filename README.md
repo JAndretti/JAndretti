@@ -38,10 +38,4 @@ My research focuses on **Machine Learning and Meta-Optimization**: developing a 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAndretti&show_icons=true&theme=radical" alt="JAndretti's GitHub stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndretti&layout=compact&theme=radical" alt="Most used languages" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAndretti&theme=radical)](https://git.io/streak-stats)
