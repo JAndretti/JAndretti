@@ -39,6 +39,9 @@ My research focuses on **Machine Learning and Meta-Optimization**: developing a 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAndretti&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndretti&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JAndretti&show_icons=true&theme=radical" alt="JAndretti's GitHub stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndretti&layout=compact&theme=radical" alt="Most used languages" />
 </div>
